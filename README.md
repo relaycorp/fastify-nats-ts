@@ -1,7 +1,6 @@
-# fastify-nats
+# fastify-nats-ts
 
-[![npm version](https://img.shields.io/npm/v/fastify-nats.svg?style=flat-square)](https://www.npmjs.com/package/fastify-nats)
-[![npm downloads](https://img.shields.io/npm/dm/fastify-nats.svg?style=flat-square)](https://www.npmjs.com/package/fastify-nats)
+TODO: Update documentation to reflect TypeScript port.
 
 [NATS](http://nats.io) Server is a simple, high performance open source messaging system for cloud native applications, IoT messaging, and microservices architectures.
 
