@@ -1,6 +1,5 @@
 # fastify-nats
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 [![npm version](https://img.shields.io/npm/v/fastify-nats.svg?style=flat-square)](https://www.npmjs.com/package/fastify-nats)
 [![npm downloads](https://img.shields.io/npm/dm/fastify-nats.svg?style=flat-square)](https://www.npmjs.com/package/fastify-nats)
 
